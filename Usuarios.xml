@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UsuarioDAO>
+    <puntuacion>0</puntuacion>
+    <misUsuarios>
+        <nombre>fran</nombre>
+        <puntuacion>0</puntuacion>
+    </misUsuarios>
+    <misUsuarios>
+        <nombre>rafa</nombre>
+        <puntuacion>0</puntuacion>
+    </misUsuarios>
+</UsuarioDAO>
